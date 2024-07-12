@@ -1,0 +1,58 @@
+.header {
+	display:flex;
+	
+
+}
+.nav1{
+	width:959.43px;
+height:22px;
+gap: 0px;
+
+
+}
+
+.item {
+	color:white;
+	
+}
+.item1 {
+	color:white;
+	width:124px;
+}
+.item2 {
+	color:white;
+}
+.navigator{
+	
+  
+    background-color:black;
+	width:1920px;
+    height:104px;
+    padding: 41px 84px 32px 0px;
+    justify-content: center
+	align-items: center;
+}
+.romb {
+	width: 6px;
+    height: 6px;
+    gap: 0px;
+    border-radius: 1px;
+    opacity: 0px;
+    transform:rotate(45deg);
+    background-color:white;
+	margin:7px;
+	
+
+}
+.nav{
+	width: 325px;
+height: 12px;
+top: 14px;
+left: 2px;
+gap: 0px;
+opacity: 0px;
+
+}
+#tt{
+	width:80px;
+}
